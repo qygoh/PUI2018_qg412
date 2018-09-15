@@ -9,15 +9,15 @@ This repository contains the screenshots of the work I did for homework 1, as we
 3) Ensure that terminal is working on the correct directory using the _pwd_ function
 4) Create a new folder called "PUI2018" using the _mkdir_ function ie. _mkdir PUI2018_ 
 5) Open bashrc ie. _vi ~/.bashrc_
-6) In the bashrc file, scroll to the bottom to add _export_ and _alais_ as seen in the screenshots attached below: 
+6) In the bashrc file, scroll to the bottom to add _export_ and _alias_ as seen in the screenshots attached below: 
 
-![export](1_Qinyu.png)
+![export screenshot](1_Qinyu.png)
 
-![alais](2_Qinyu.png)
+![alias screenshot](2_Qinyu.png)
 
-7) Exit vi editor and double check if the alais is set up correctly:
+7) Exit vi editor and double check if the alias is set up correctly:
 
-![checking](3_Qinyu.png)
+![checking screenshot](3_Qinyu.png)
 
 ### Extra Credit Homework
 
