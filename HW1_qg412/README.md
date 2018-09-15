@@ -1,6 +1,6 @@
 # Homework 1
 
-This repository contains the screenshots of the work I did for homework 1, as well as the extra credit ipython notebook.  
+This repository contains the screenshots of the work I did for homework 1, as well as the extra credit ipyton notebook.  
 
 ### What I did to set up the environment
 
