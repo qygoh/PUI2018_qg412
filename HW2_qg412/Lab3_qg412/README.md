@@ -1,8 +1,8 @@
-#Assignment 1 or Part 1 of Homework 3
+# Assignment 1 AKA Part 1 of Homework 3
 
 On how to remove files permanently on Github.
 
-###Screenshots
+### Screenshots
 
 1) The repo screenshot of my _test.csv_ file: 
 ![Repo screenshot](Before_Repo_screenshot.png)
