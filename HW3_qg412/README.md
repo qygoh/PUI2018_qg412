@@ -1,5 +1,7 @@
 # For Assignments 2,3&4
 
+Readme for assignment 1 is stored inside assignment 1's folder.
+
 ## Assignment 2
 
 The main file for this assignment is _Assignment2_qg412_, which stores both the compulsory and extra credit assignment. 
