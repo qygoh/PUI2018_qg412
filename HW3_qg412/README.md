@@ -27,7 +27,7 @@ The main file of interest for Assignment 3 is _show_bus_locations_qg412.py_, whi
 5. Wrote the code that will print the output correctly using a for loop as well as an iterator!
 
 ### Groups and my contribution
-I am **extremely thankful** for Vaidehi, Kloe, Rachel Sim and Mei Guan for our almost daily (!) discussion sessions. 
+I am **extremely thankful** for Vaidehi, Kloe, Rachel Sim and Mei Guan for our almost daily (!) discussion sessions! 
 
 I was mostly struggling to understand what is required of us to do the assignment and how to even do it cause there was no mention of how to create a python script at all in class. 
 
@@ -40,7 +40,7 @@ The main file of interest for Assignment 4 is _get_bus_info_qg412.py_, which if 
 ### What I did
 1) Copy most part of the code from Assignment 3 except for the output portion
 2) Identifed the dictionaries where Stop Name and Stop Status are located
-3) Use for loop, iterators and booleans to be able to render output. Boolean is needed because stop name and stop status have "NA" values, which will break the entire code as it is not numerical. The way around is to do boolean what will ask system to print NA for such values, if not, move on. 
+3) Use for loop, iterators and booleans to be able to render output. Boolean is needed because stop name and stop status have "NA" values, which will break the entire code as it is not numerical. In this case, using boolean will let the system know to print NA when there is no value, and to move on printing the rest with values without breaking the code. 
 4) Adjust the code to be able to render the output in desired format in csv file
 
 ### Groups and my contributions
