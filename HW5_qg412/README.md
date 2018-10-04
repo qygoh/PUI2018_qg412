@@ -1,10 +1,11 @@
 # Assignment 2 
-On 
+On understanding how academic papers utilize statistical tests. 
 
 ### What I did
 
 1) Chose 3 tests - Chi-squared, Multiple regression and logistic regression
-2) Summarized 3 papers for each of the chosen test in the table below: 
+
+2) Summarized 3 papers from PLOS ONE for each of the chosen test in the table below: 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
