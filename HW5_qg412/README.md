@@ -14,7 +14,7 @@ ANOVA	| 2. IV1: Sleep for 12 hours. IV2: Wake for 12 hours | Categorical | 1, Pe
   
 3) Provided screenshot of the main plot of the 3 selected papers: 
 
-!(anova_main.png)
+![screenshot](anova_main.png)
 
 Figure 1: ANOVA Paper's main plot. Subplot A shows that overall, the sleep group improved the most compared to sleep-wake and wake groups. Subplot B shows the choices made by participants for each deck in IGT: Choice of deck A and B are considered bad choices, while choices C and D are considered good choices. Improvement is reflected by a negative percent change in deck A and B and positive percent change in deck C and D.
 
