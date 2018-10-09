@@ -30,7 +30,7 @@ Logistic Regression |2. IV1: Sleep for 12 hours. IV2: Wake for 12 hours | Catego
 
 Figure 1: ANOVA Paper's main plot. Subplot A shows that overall, the sleep group improved the most compared to sleep-wake and wake groups. Subplot B shows the choices made by participants for each deck in IGT: Choice of deck A and B are considered bad choices, while choices C and D are considered good choices. Improvement is reflected by a negative percent change in deck A and B and positive percent change in deck C and D.
 
-![screenshot](pathanalysis_main.png)
+![screenshot](pathanalysis_main.PNG)
 
 Figure 2: Path Analysis Paper's main plot. There are in total 7 predictors analyzed: (X1)women age, (X12) place of residence, (X3)religion, (X4) socioeconomic status, (X5) use of family planning methods, (X6) women education, (X7) age at first marriage for their effect on the dependent variable (X8)unwanted births. 
 
