@@ -30,7 +30,7 @@ Logistic Regression |3. Respiratory conditions, cardiovascular conditions and ol
 
 Figure 1: ANOVA Paper's main plot. Subplot A shows that overall, the sleep group improved the most compared to sleep-wake and wake groups. Subplot B shows the choices made by participants for each deck in IGT: Choice of deck A and B are considered bad choices, while choices C and D are considered good choices. Improvement is reflected by a negative percent change in deck A and B and positive percent change in deck C and D.
 
-<img src="pathanalysis_main.PNG" alt="Drawing" style="width: 400px;"/>
+![screenshot](pathanalysis_main.PNG)
 
 Figure 2: Path Analysis Paper's main plot. There are in total 7 predictors analyzed: (X1)women age, (X12) place of residence, (X3)religion, (X4) socioeconomic status, (X5) use of family planning methods, (X6) women education, (X7) age at first marriage for their effect on the dependent variable (X8)unwanted births. This plot summarizes the findings that unwanted births were positively correlated with women age and place of residence while it is inversely significantly correlated with education and social status. It also shows that the total effects of endogenous variables such as women age, place of residence and use of family planning methods have favorable effect on unwanted births.
 
