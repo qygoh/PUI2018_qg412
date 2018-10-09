@@ -64,6 +64,6 @@ On. The main file for this assignment is _Assignment 4_qg412_.
 
 
 ### Groups and my contribution
-This was hard. 
+This was hard. still working on it. 
 
 
