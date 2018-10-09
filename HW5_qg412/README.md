@@ -20,7 +20,8 @@ On understanding how academic papers utilize statistical tests. No specific file
 | **Statistical Analyses**	|  **Independent Variable(s)**  |  **IV type(s)** |  **Dependent Variables(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **Alpha** | **Link to paper**| 
 |:----------:|:-------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANOVA	| 2. IV1: Sleep for 12 hours. IV2: Wake for 12 hours | Categorical | 1: Performance in The Iowa Gambling Task (IGT) | Categorical | 1: Sleep and wake for 12 hours respectively | Categorical |	Does intervening sleep between sessions enhance performance in IGT? | IGT Performance test groups <= IGT Performance control group | 0.05 | [Post Learning Sleep Improves Cognitive-Emotional Decision-Making: Evidence for a ‘Deck B Sleep Effect’ in the Iowa Gambling Task](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112056) |
-
+Logistic Regression |
+|||||||||
 
 3) Provide screenshots of the main plot of the 3 selected papers: 
 
