@@ -1,8 +1,12 @@
 # Assignment 1 
-On reviewing others' proposal. 
+On reviewing a fellow classmate's citibike proposal. 
 
 ### What I did
-not done yet. sorry partner i think i'll ask for extension for this homework. 
+
+1) Forked the HW4 repository from a fellow classmate's repository on Github
+2) Added a readme.md file titled _CitibikeReview_qg412.md_ on Github
+3) Wrote a review on the hypothesis formulated, verified if data supported project, recommended a suitable statistical test and provided additional suggestion to variation in question asked 
+4) Submitted a pull request on classmate's online repository on Github so that my readme.md can be added to his or her repository. 
 
 ### Groups and my contribution
 I did this piece of work on my own, as designated by the instructions. 
