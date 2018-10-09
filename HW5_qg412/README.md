@@ -13,15 +13,15 @@ On understanding how academic papers utilize statistical tests. No specific file
 
 ### What I did
 
-1) Chose 3 statistical tests - ANOVA, Path Analysis and logistic regression
+1) Chose 3 statistical tests - ANOVA, Path Analysis and Logistic Regression
 
 2) Summarized 3 papers from PLOS ONE for each of the chosen tests in the table below: 
 
 | **Statistical Analyses**	|  **Independent Variable(s)**  |  **IV type(s)** |  **Dependent Variables(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **Alpha** | **Link to paper**| 
 |:----------:|:-------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANOVA	| 2. IV1: Sleep for 12 hours. IV2: Wake for 12 hours | Categorical | 1: Performance in The Iowa Gambling Task (IGT) | Categorical | 1: Sleep and wake for 12 hours respectively | Categorical |	Does intervening sleep between sessions enhance performance in IGT? | IGT Performance test groups <= IGT Performance control group | 0.05 | [Post Learning Sleep Improves Cognitive-Emotional Decision-Making: Evidence for a ‘Deck B Sleep Effect’ in the Iowa Gambling Task](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112056) |
-Path Analysis | 7. (X1)women age, (X2) place of residence, (X3)religion, (X4) socioeconomic status, (X5) use of family planning methods, (X6) women education, (X7) age at first marriage | Categorical | 1: Number of unwanted births | Continuous | NIL | NIL | To determine the direct, indirect and total effects of socio-demographic factors on unwanted births. | All variables have no impact on number of unwanted births as well as no correlation with each other | 0.05 | [Correlates of Unwanted Births in Bangladesh: A Study through Path Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164007) |
-Logistic Regression |2. IV1: Sleep for 12 hours. IV2: Wake for 12 hours | Categorical | 1: Performance in The Iowa Gambling Task (IGT) | Categorical | 1: Sleep and wake for 12 hours respectively | Categorical |	To know the important covariates for unwanted births in Bangladesh. | IGT Performance test groups <= IGT Performance control group | 0.05 | [Correlates of Unwanted Births in Bangladesh: A Study through Path Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164007) |
+Path Analysis | 7. (X1)women age, (X2) place of residence, (X3)religion, (X4) socioeconomic status, (X5) use of family planning methods, (X6) women education, (X7) age at first marriage | Categorical and Continuous | 1: Number of unwanted births | Continuous | NIL | NIL | To determine the direct, indirect and total effects of socio-demographic factors on unwanted births. | All variables have no impact on number of unwanted births as well as no correlation with each other | 0.05 | [Correlates of Unwanted Births in Bangladesh: A Study through Path Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164007) |
+Logistic Regression |3. Respiratory conditions, cardiovascular conditions and older age | Categorical | 1: Activity Change | Categorical | NIL | NIL | What is the extent to which susceptible individuals changed activities due to bad air quality? | Good Air Quality Activity type = Bad Air Quality Activity Type | 0.05 | [Activity Change in Response to Bad Air Quality, National Health and Nutrition Examination Survey, 2007–2010](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050526) |
 |||||||||
 
 3) Provide screenshots of the main plot of the 3 selected papers: 
@@ -34,9 +34,9 @@ Figure 1: ANOVA Paper's main plot. Subplot A shows that overall, the sleep group
 
 Figure 2: Path Analysis Paper's main plot. There are in total 7 predictors analyzed: (X1)women age, (X12) place of residence, (X3)religion, (X4) socioeconomic status, (X5) use of family planning methods, (X6) women education, (X7) age at first marriage for their effect on the dependent variable (X8)unwanted births. This plot summarizes the findings that unwanted births were positively correlated with women age and place of residence while it is inversely significantly correlated with education and social status. It also shows that the total effects of endogenous variables such as women age, place of residence and use of family planning methods have favorable effect on unwanted births.
 
-![screenshot](logregression_main.png)
+![screenshot](logregression_main.jpg)
 
-Figure 3: Logistic Regression Paper's main plot. 
+Figure 3: Logistic Regression Paper's main plot. This plot summarizes the results finding as it reflects all the probabilities of changing activity due to poor air quality by each susceptible category of respiratory conditions, cardiovascular conditions and older age.
 
 ### Groups and my contributions
 Did this on my own, but double checked my answers with kloe @ kyn227, vaidehi @ vvt221 and rachel @ rms818. 
