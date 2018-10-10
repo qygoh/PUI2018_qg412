@@ -43,7 +43,7 @@ Figure 2: Path Analysis Paper's main plot. There are in total 7 predictors analy
 Figure 3: Logistic Regression Paper's main plot. This plot summarizes the results finding as it reflects all the probabilities of changing activity due to poor air quality by each susceptible category of respiratory conditions, cardiovascular conditions and older age.
 
 ### Groups and my contributions
-Did this on my own, but double checked my answers with kloe @ kyn227, vaidehi @ vvt221 and rachel @ rms818. 
+Did this on my own, but double checked my answers with kloe @ kyn227, vaidehi @ vvt221 and rachel @ rms818. We shared some links between ourselves. 
 
 
 # Assignment 3
@@ -62,12 +62,12 @@ I managed to do this by myself! Yaye. Double checked my answers with Vaidehi @ v
 
 
 # Assignment 4
-On. The main file for this assignment is _Assignment 4_qg412_. 
+The main file for this assignment is _Assignment 4_qg412_. 
 
 ### What I did
-
+1) Downloaded data from Citibike 2016, for two months, Jan and July to try to account for seasonality 
+2) CLEANED THE DATA so that I can run the 3 required correlation test
+3) Wrote null hypothesis for the 3 tests ran and analyszed the results. 
 
 ### Groups and my contribution
-This was hard. still working on it. 
-
-
+This was hard :( MANY THOUSAND TRILLION THANKS to Vaidehi @vvt221 and Rachel @rms818 for sharing their codes with me, especially for the extra credits portions because I got lost halfway. I did try my best to do the mandatory parts myself, hence this notebook was kind of messy. 
