@@ -6,7 +6,7 @@ Completing Prof's Skeleton notebook
 2) Completed the skeleton notebook 
 
 ### Groups and my contributions
-I did this assignment mostly on my own, with error shooting help from Rachel @ rms818, Vaidehi @ vvt221 and Kloe @ kyn227. Shoutout to Vaidehi for helping me check my logic for the last portion, defining the function.
+I did this assignment on my own, with error shooting help from Rachel @ rms818, Vaidehi @ vvt221 and Kloe @ kyn227. Shoutout to Vaidehi for helping me check my logic for the last portion, defining the function.
 
 
 # Assignment 2
