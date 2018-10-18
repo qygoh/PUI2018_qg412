@@ -1,7 +1,7 @@
 
 IDEA: People tend to cycle more on Sundays than Saturdays.
 
-*WHY? expand on why this question is interesting**
+**WHY? expand on why this question is interesting**
 
 Null hypothesis: Average NUMBER OF bike trips for Saturday is the same or more than that of the Sunday. 
 ** what are you averaging over? what is the time period over which you will test your hypothesis? 
@@ -12,7 +12,7 @@ better suited to compare means**
 
 Alternative hypothesis: Average bike trips for Sunday is more than that of Saturday's.
 
-** the Ho and H1 are set up correctly for the question*
+**the Ho and H1 are set up correctly for the question**
 
 At a significance level of α=0.05
 
@@ -20,7 +20,7 @@ $H_0$ : Sat - Sun >= 0
 
 $H_1$ : Sat - Sun < 0
 
-** the formulae are ok but you should use  more suited math symbols **
+**the formulae are ok but you should use  more suited math symbols**
 
 $H_0$ : <N>_Sat - <N>_Sun >= 0
 
@@ -32,16 +32,17 @@ the figure caption is lacking info: which day of the week was the day of the dip
 There is an obvious up down behavior, are the ups saturdays or sundays?
 The following plots answer some of these questions but the captions are insufficient. remember to include "what" and "why": not just what you are shoing but why, what answer does this plot give or question prmopt?
 
-To answer the question "are the means the same within some statistical significance" you also need the standard deviation of the sample so you need a new cell
+**To answer the question "are the means the same within some statistical significance" you also need the standard deviation of the sample so you need a new cell**
 
 overall_satsun_std = pd.DataFrame(new_satsun.groupby(['weekday'])['count'].std()).reset_index()
 
 Once you have that you can plot it in the last plot as an errorbar
 
-Otherwise the data is processed ok and it can support the answer to the question. 
+**Otherwise the data is processed ok and it can support the answer to the question.** 
 
 
 **test**
+
 As you set up the problem you want to test a difference of means, so a t-test is appropriate: specifically a one tailed t test 
 
 SE = sqrt[(s1**2/n1) + (s2**2/n2)]
