@@ -33,7 +33,7 @@ Did this by myself as specified by instructions.
 
 ### What I did
 
-
+The authorea report @ https://www.authorea.com/users/249380/articles/335460-hw8-assignment-2
 
 ### Groupmates and my contributions
 
