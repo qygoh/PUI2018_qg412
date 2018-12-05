@@ -1,14 +1,14 @@
 # Assignment 1
 
 ### What I did
-Completed task 1 and 2 mostly by myself, working in close collaboration with Mei @yg833 for these two segments! Don't understand what was going on for Task 3. 
+Completed task 1 and 2 mostly by myself, working in close collaboration with Mei @yg833 for these two segments! Don't understand what was going on for Task 3, only managed to complete aspects of it.  
 
 
 ### Groupmates & my contributions
 
 Consulted many people throughout this assignment. Shoutout to Mei @yg833, Jerome (jl9489), Andrea(ah4412), Fekade Brook (fb1182), Sam (sjf374). 
 
-Many thanks to Rachel @rms818 whom guided me through portions of Task 3. 
+Many thanks to Rachel @rms818 whom guided me through portions of Task 3, and I referenced her code for some portions! . 
 
 
 
